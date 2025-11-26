@@ -1,4 +1,4 @@
-# Surgical Risk Prediction System 🏥
+# Surgical Risk Prediction System
 
 ## MIMIC-III Clinical Database: Exploratory Data Analysis & Predictive Modeling
 
