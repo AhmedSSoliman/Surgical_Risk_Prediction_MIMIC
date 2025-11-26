@@ -6,25 +6,6 @@ A comprehensive machine learning system for predicting 9 critical postoperative 
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Complications Predicted](#complications-predicted)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Key Features](#key-features)
-- [Visualizations](#visualizations)
-- [Clinical Applications](#clinical-applications)
-- [Requirements](#requirements)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
----
-
 ## 🎯 Overview
 
 This project develops an AI-powered surgical risk prediction system that:
